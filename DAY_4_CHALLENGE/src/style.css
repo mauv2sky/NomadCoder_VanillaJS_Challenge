@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #9b59b6;
+  }
+  
+  h2 {
+    color: #ffffff;
+  }
+  
+  .maxWinColor {
+    background-color: #f1c40f;
+  }
+  
+  .minWinColor {
+    background-color: #3498db;
+  }
+  
